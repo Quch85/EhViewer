@@ -1,6 +1,12 @@
-# DEPRECATED
+# Unofficial Ehviewer
 
-[![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/ehviewer)
+自从 E-Hentai 经过一次波折后， EhViewer 已经被封存停止更新。能力有限，稍微修复一些小问题。
+
+原项目：[seven332/EhViewer](https://github.com/seven332/EhViewer)
+
+Since E-hentai shut down, EhViewer has been archived. Try to fix some bugs.
+
+Orign：[seven332/EhViewer](https://github.com/seven332/EhViewer)
 
 # EhViewer
 
